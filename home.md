@@ -3,7 +3,9 @@
 
 Welcome to the RW2 Productions Development Wiki. Here you will find a wealth of knowledge on how secret things work
 # Contents
-- Plugins
-- Custom Plugins
-- Custom Code
-- Page Code
+- [Methodology](/methodology): Whatever you'd like
+- [Plugins](/plugins)
+- [Custom Plugins](/custom-plugins)
+- [Custom Code](/custom-code)
+- [Page Code](/page-code)
+- [Standards](/standards)
